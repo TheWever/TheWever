@@ -1,16 +1,17 @@
-### Hi there 👋
+# - TheWever -
 
-<!--
-**TheWever/TheWever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Description:
+Im an experienced software engeneer and most familiar with python and c#
 
-Here are some ideas to get you started:
+## Socials:
+• Discord: Wever#3255
+• Stackoverflow: TheWever
+• Twitter: TheWever_
+• Xbox: NoNarrator
+• Oculus: NoNarrator
+...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats:
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=TheWever&theme=tokyonight" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWever&theme=tokyonight" /> 
+
+# - TheWever -
