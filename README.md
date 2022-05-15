@@ -13,6 +13,7 @@ Im an experienced software engeneer and most familiar with python and c#
 • Xbox: NoNarrator
 
 • Oculus: NoNarrator
+
 ...
 
 ## Stats:
