@@ -11,6 +11,7 @@ Im an experienced software engeneer and most familiar with python and c#
 • Twitter: TheWever_
 
 • Xbox: NoNarrator
+
 • Oculus: NoNarrator
 ...
 
