@@ -5,8 +5,11 @@ Im an experienced software engeneer and most familiar with python and c#
 
 ## Socials:
 • Discord: Wever#3255
+
 • Stackoverflow: TheWever
+
 • Twitter: TheWever_
+
 • Xbox: NoNarrator
 • Oculus: NoNarrator
 ...
